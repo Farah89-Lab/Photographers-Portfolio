@@ -100,10 +100,10 @@
     </section>
     <footer class="bg-dark text-white text-center py-3">
         <div class="mb-2">
-            <a href="#" class="text-white me-3" title="Facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="text-white me-3" title="Instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="text-white me-3" title="Twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="text-white" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+            <a href="https://facebook.com/" class="text-white me-3" title="Facebook" target="_blank" rel="noopener"><i class="bi bi-facebook"></i> <span class="visually-hidden">Facebook</span></a>
+            <a href="https://instagram.com/" class="text-white me-3" title="Instagram" target="_blank" rel="noopener"><i class="bi bi-instagram"></i> <span class="visually-hidden">Instagram</span></a>
+            <a href="https://twitter.com/" class="text-white me-3" title="Twitter" target="_blank" rel="noopener"><i class="bi bi-twitter"></i> <span class="visually-hidden">Twitter</span></a>
+            <a href="https://linkedin.com/" class="text-white" title="LinkedIn" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i> <span class="visually-hidden">LinkedIn</span></a>
         </div>
         &copy; 2025 Photographer Portfolio
         <button id="backToTop" class="btn btn-outline-light btn-sm ms-3">Back to Top</button>
